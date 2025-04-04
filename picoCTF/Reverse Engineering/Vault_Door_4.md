@@ -52,7 +52,8 @@ class VaultDoor4 {
         }
         return true;
     }
-}```
+}
+```
 
 the program compares the user input against the myBytes array. the first row of the array contains ascii characters, the 2nd row hex, and the 3rd octal, and 4th regular characters. converting these to regular characters, concatenating them and wrapping them in the flag format gives us the flag:
 
