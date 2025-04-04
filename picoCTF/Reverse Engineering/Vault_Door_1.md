@@ -63,7 +63,8 @@ class VaultDoor1 {
                password.charAt(26) == 'f' &&
                password.charAt(31) == '4';
     }
-}```
+}
+```
 
 it's pretty simple. the program checks for certain characters at certain indexes to see if the password is correct, along with the picoCTF{} format.
 

@@ -14,4 +14,4 @@ i tried putting this in as the flag, but it didn't work. i then noticed the "J" 
 
 ## Flag
 
-picoCTF{FR3QU3NCY_4774CK5_4R3_C001_4871E6FB}
+**picoCTF{FR3QU3NCY_4774CK5_4R3_C001_4871E6FB}**

@@ -10,4 +10,4 @@ just like the last challenge, we are met with garbled text. i put it into the su
 
 ## Flag
 
-picoCTF{N6R4M_4N41Y515_15_73D10U5_42EA1770}
+**picoCTF{N6R4M_4N41Y515_15_73D10U5_42EA1770}**
